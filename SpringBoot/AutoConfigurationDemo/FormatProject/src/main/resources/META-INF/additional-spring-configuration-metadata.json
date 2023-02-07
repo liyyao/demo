@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "name": "liyyao.hello.format.name",
+      "type": "java.lang.String",
+      "description": "账号信息",
+      "defaultValue": "root"
+    },{
+      "name": "liyyao.hello.format.age",
+      "type": "java.lang.Integer",
+      "description": "年龄",
+      "defaultValue": 18
+    }
+  ]
+}
